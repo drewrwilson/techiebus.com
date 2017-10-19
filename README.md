@@ -1,4 +1,4 @@
-# leagueofjust.us
+# techiebus.com
 
 
-[](images/leagueofjustus-logo.png)
+[](images/logo.png)
