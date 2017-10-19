@@ -1,2 +1,4 @@
-# techie
-a mobile fablab
+# leagueofjust.us
+
+
+[](images/leagueofjustus-logo.png)
